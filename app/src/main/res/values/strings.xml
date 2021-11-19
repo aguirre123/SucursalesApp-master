@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SUCURSALESAPP</string>
+    <string name="usuario"></string>
+    <string name="agregar_direccion">Agregar direccion</string>
+    <string name="aceptar">Aceptar</string>
+
+
+    <string name="main_txtEmail_hint">Ingresa tu e-mail</string>
+    <string name="main_txtClave_hint">Ingresa tu contraseña</string>
+    <string name="main_btnIngresar_text">Ingresar</string>
+    <string name="main_btnRegistrar_text">Registrar</string>
+    <string name="main_btnIngresar_errorTitulo">Campos vacíos</string>
+    <string name="main_btnIngresar_errorMensaje">Digite los campos email y contraseña</string>
+    <string name="main_EditTextName_hint">Digite su Nombre </string>
+    <string name="main_editTextApellido">Digite su apellido</string>
+    <string name="main_EditTextEmail_hint">Correo electrónico</string>
+    <string name="main_btnvolver_hint">Volver</string>
+
+
+
+    <string name="feedbacktype">Edad</string>
+    <string name="feedbacktype1">Menor de 14 años</string>
+    <string name="feedbacktype2">Entre 14 años y 24 años</string>
+    <string name="feedbacktype3">Entre 25 años y 34 años</string>
+    <string name="feedbacktype4">Mayor de 35 años</string>
+</resources>
