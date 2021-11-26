@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934358455723",
+    "project_id": "sucursalesapp-8f0ee",
+    "storage_bucket": "sucursalesapp-8f0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934358455723:android:883b16461777707487aeee",
+        "android_client_info": {
+          "package_name": "com.mintic.sucursalesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934358455723-f54gg3cujcau4s13i3nd2rvvoo6ab49k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRIRVvXheUv1zIwpS-hnjtTLrgtUmhJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934358455723-f54gg3cujcau4s13i3nd2rvvoo6ab49k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
